@@ -1,0 +1,6 @@
+/home/aselutin/Documents/RiderProjects/Solution1/Problem2/bin/Debug/Problem2.exe
+/home/aselutin/Documents/RiderProjects/Solution1/Problem2/bin/Debug/Problem2.pdb
+/home/aselutin/Documents/RiderProjects/Solution1/Problem2/obj/Debug/Problem2.csprojAssemblyReference.cache
+/home/aselutin/Documents/RiderProjects/Solution1/Problem2/obj/Debug/Problem2.csproj.CoreCompileInputs.cache
+/home/aselutin/Documents/RiderProjects/Solution1/Problem2/obj/Debug/Problem2.exe
+/home/aselutin/Documents/RiderProjects/Solution1/Problem2/obj/Debug/Problem2.pdb
