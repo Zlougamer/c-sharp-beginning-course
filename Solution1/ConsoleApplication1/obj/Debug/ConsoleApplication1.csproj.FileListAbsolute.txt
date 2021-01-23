@@ -1,6 +1,0 @@
-/home/aselutin/Documents/RiderProjects/Solution1/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
-/home/aselutin/Documents/RiderProjects/Solution1/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
-/home/aselutin/Documents/RiderProjects/Solution1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csprojAssemblyReference.cache
-/home/aselutin/Documents/RiderProjects/Solution1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache
-/home/aselutin/Documents/RiderProjects/Solution1/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
-/home/aselutin/Documents/RiderProjects/Solution1/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb
