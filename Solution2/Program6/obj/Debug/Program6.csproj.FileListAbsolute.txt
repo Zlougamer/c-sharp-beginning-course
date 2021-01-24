@@ -1,0 +1,6 @@
+/home/aselutin/Documents/geekbrains/c-sharp-beginning-course/Solution2/Program6/bin/Debug/Program6.exe
+/home/aselutin/Documents/geekbrains/c-sharp-beginning-course/Solution2/Program6/bin/Debug/Program6.pdb
+/home/aselutin/Documents/geekbrains/c-sharp-beginning-course/Solution2/Program6/obj/Debug/Program6.csprojAssemblyReference.cache
+/home/aselutin/Documents/geekbrains/c-sharp-beginning-course/Solution2/Program6/obj/Debug/Program6.csproj.CoreCompileInputs.cache
+/home/aselutin/Documents/geekbrains/c-sharp-beginning-course/Solution2/Program6/obj/Debug/Program6.exe
+/home/aselutin/Documents/geekbrains/c-sharp-beginning-course/Solution2/Program6/obj/Debug/Program6.pdb
