@@ -1,6 +1,0 @@
-/home/aselutin/Documents/geekbrains/c-sharp-beginning-course/Solution2/Problem3/bin/Debug/Problem3.exe
-/home/aselutin/Documents/geekbrains/c-sharp-beginning-course/Solution2/Problem3/bin/Debug/Problem3.pdb
-/home/aselutin/Documents/geekbrains/c-sharp-beginning-course/Solution2/Problem3/obj/Debug/Problem3.csprojAssemblyReference.cache
-/home/aselutin/Documents/geekbrains/c-sharp-beginning-course/Solution2/Problem3/obj/Debug/Problem3.csproj.CoreCompileInputs.cache
-/home/aselutin/Documents/geekbrains/c-sharp-beginning-course/Solution2/Problem3/obj/Debug/Problem3.exe
-/home/aselutin/Documents/geekbrains/c-sharp-beginning-course/Solution2/Problem3/obj/Debug/Problem3.pdb
