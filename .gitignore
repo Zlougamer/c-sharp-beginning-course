@@ -1,2 +1,4 @@
-Solution1/.idea
 /*/.idea
+/*/*/bin
+/*/*/obj
+/*/*/*.csproj
