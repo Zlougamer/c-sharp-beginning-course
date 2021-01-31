@@ -88,5 +88,4 @@ namespace Program1 {
             return counter;
         }
     }
-    
 }
