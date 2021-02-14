@@ -1,0 +1,10 @@
+C:\Users\Biratyxa\Source\Repos\Problem1\Problem1\bin\Debug\Problem1.exe.config
+C:\Users\Biratyxa\Source\Repos\Problem1\Problem1\bin\Debug\Problem1.exe
+C:\Users\Biratyxa\Source\Repos\Problem1\Problem1\bin\Debug\Problem1.pdb
+C:\Users\Biratyxa\Source\Repos\Problem1\Problem1\obj\Debug\Problem1.csprojAssemblyReference.cache
+C:\Users\Biratyxa\Source\Repos\Problem1\Problem1\obj\Debug\Problem1.Form1.resources
+C:\Users\Biratyxa\Source\Repos\Problem1\Problem1\obj\Debug\Problem1.Properties.Resources.resources
+C:\Users\Biratyxa\Source\Repos\Problem1\Problem1\obj\Debug\Problem1.csproj.GenerateResource.cache
+C:\Users\Biratyxa\Source\Repos\Problem1\Problem1\obj\Debug\Problem1.csproj.CoreCompileInputs.cache
+C:\Users\Biratyxa\Source\Repos\Problem1\Problem1\obj\Debug\Problem1.exe
+C:\Users\Biratyxa\Source\Repos\Problem1\Problem1\obj\Debug\Problem1.pdb
